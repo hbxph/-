@@ -1,6 +1,6 @@
 package com.example.petservice.mapper;
 
-import com.example.petservice.entity.File;
+import com.example.petservice.entity.Files;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
@@ -11,6 +11,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * @author aaa
  * @since 2024-06-14
  */
-public interface FileMapper extends BaseMapper<File> {
+public interface FileMapper extends BaseMapper<Files> {
 
 }

@@ -7,8 +7,7 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 /**
  * <p>
@@ -20,6 +19,9 @@ import lombok.Setter;
  */
 @Getter
 @Setter
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
   @TableName("pet_daily")
 @ApiModel(value = "PetDaily对象", description = "")
 public class PetDaily implements Serializable {
