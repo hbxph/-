@@ -179,28 +179,28 @@
         </dependency>
 
 
-<!--            &lt;!&ndash; 导入本地包 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>jntoo-query</groupId>-->
-<!--                <artifactId>jntoo-query</artifactId>-->
-<!--                <version>1.0</version>-->
-<!--                <scope>system</scope>-->
-<!--                <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/jntoo-query.jar</systemPath>-->
-<!--            </dependency>-->
-<!--            <dependency>-->
-<!--                <groupId>ueditor-mini</groupId>-->
-<!--                <artifactId>ueditor-mini</artifactId>-->
-<!--                <version>1.0</version>-->
-<!--                <scope>system</scope>-->
-<!--                <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/ueditor-mini.jar</systemPath>-->
-<!--            </dependency>-->
-<!--            <dependency>-->
-<!--                <groupId>jxl</groupId>-->
-<!--                <artifactId>jxl</artifactId>-->
-<!--                <version>1.0</version>-->
-<!--                <scope>system</scope>-->
-<!--                <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/jxl.jar</systemPath>-->
-<!--            </dependency>-->
+            <!-- 导入本地包 -->
+            <dependency>
+                <groupId>jntoo-query</groupId>
+                <artifactId>jntoo-query</artifactId>
+                <version>1.0</version>
+                <scope>system</scope>
+                <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/jntoo-query.jar</systemPath>
+            </dependency>
+            <dependency>
+                <groupId>ueditor-mini</groupId>
+                <artifactId>ueditor-mini</artifactId>
+                <version>1.0</version>
+                <scope>system</scope>
+                <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/ueditor-mini.jar</systemPath>
+            </dependency>
+            <dependency>
+                <groupId>jxl</groupId>
+                <artifactId>jxl</artifactId>
+                <version>1.0</version>
+                <scope>system</scope>
+                <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/jxl.jar</systemPath>
+            </dependency>
 
         </dependencies>
         <dependencyManagement>
