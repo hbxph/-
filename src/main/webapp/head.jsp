@@ -8,7 +8,7 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>常州好爱它宠物管理服务系统</title>
+    <title>福州好爱它宠物管理服务系统</title>
     <meta name="force-rendering" contect="WebKit">
     <meta name="renderer" content="webkit|ie-comp|ie-stand">
     <meta name="renderer" content="webkit">
