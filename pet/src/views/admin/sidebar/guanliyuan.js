@@ -27,16 +27,16 @@ export default [
             },
         ]
     },
-    {
-        label: '充值管理',
-        to: '',
-        children: [
-            {
-                label: '充值查询',
-                to: '/admin/chongzhi',
-            },
-        ]
-    },
+    // {
+    //     label: '充值管理',
+    //     to: '',
+    //     children: [
+    //         {
+    //             label: '充值查询',
+    //             to: '/admin/chongzhi',
+    //         },
+    //     ]
+    // },
     {
         label: '商品分类管理',
         to: '',
@@ -75,30 +75,30 @@ export default [
             },
         ]
     },
-    {
-        label: '分享趣事管理',
-        to: '',
-        children: [
-            {
-                label: '分享趣事查询',
-                to: '/admin/fenxiangqushi',
-            },
-        ]
-    },
-    {
-        label: '医疗服务管理',
-        to: '',
-        children: [
-            {
-                label: '医疗服务添加',
-                to: '/admin/yiliaofuwuadd',
-            },
-            {
-                label: '医疗服务查询',
-                to: '/admin/yiliaofuwu',
-            },
-        ]
-    },
+    // {
+    //     label: '分享趣事管理',
+    //     to: '',
+    //     children: [
+    //         {
+    //             label: '分享趣事查询',
+    //             to: '/admin/fenxiangqushi',
+    //         },
+    //     ]
+    // },
+    // {
+    //     label: '医疗服务管理',
+    //     to: '',
+    //     children: [
+    //         {
+    //             label: '医疗服务添加',
+    //             to: '/admin/yiliaofuwuadd',
+    //         },
+    //         {
+    //             label: '医疗服务查询',
+    //             to: '/admin/yiliaofuwu',
+    //         },
+    //     ]
+    // },
     {
         label: '服务预约管理',
         to: '',
@@ -113,20 +113,20 @@ export default [
             },
         ]
     },
-    {
-        label: '评价管理',
-        to: '',
-        children: [
-            {
-                label: '评价查询',
-                to: '/admin/pinglun',
-            },
-            {
-                label: '回复评论查询',
-                to: '/admin/huifupinglun',
-            },
-        ]
-    },
+    // {
+    //     label: '评价管理',
+    //     to: '',
+    //     children: [
+    //         {
+    //             label: '评价查询',
+    //             to: '/admin/pinglun',
+    //         },
+    //         {
+    //             label: '回复评论查询',
+    //             to: '/admin/huifupinglun',
+    //         },
+    //     ]
+    // },
     {
         label: '宠物资讯管理',
         to: '',
@@ -149,39 +149,39 @@ export default [
             },
         ]
     },
-    {
-        label: '系统管理',
-        to: '',
-        children: [
-            {
-                label: '友情链接添加',
-                to: '/admin/youqinglianjieadd',
-            },
-            {
-                label: '友情链接查询',
-                to: '/admin/youqinglianjie',
-            },
-            {
-                label: '轮播图添加',
-                to: '/admin/lunbotuadd',
-            },
-            {
-                label: '轮播图查询',
-                to: '/admin/lunbotu',
-            },
-            {
-                label: '单页信息添加',
-                to: '/admin/guanyuadd',
-            },
-            {
-                label: '单页信息查询',
-                to: '/admin/guanyu',
-            },
-            {
-                label: '留言反馈管理',
-                to: '/admin/liuyanfankui',
-            },
-        ]
-    },
+    // {
+    //     label: '系统管理',
+    //     to: '',
+    //     children: [
+    //         {
+    //             label: '友情链接添加',
+    //             to: '/admin/youqinglianjieadd',
+    //         },
+    //         {
+    //             label: '友情链接查询',
+    //             to: '/admin/youqinglianjie',
+    //         },
+    //         {
+    //             label: '轮播图添加',
+    //             to: '/admin/lunbotuadd',
+    //         },
+    //         {
+    //             label: '轮播图查询',
+    //             to: '/admin/lunbotu',
+    //         },
+    //         {
+    //             label: '单页信息添加',
+    //             to: '/admin/guanyuadd',
+    //         },
+    //         {
+    //             label: '单页信息查询',
+    //             to: '/admin/guanyu',
+    //         },
+    //         {
+    //             label: '留言反馈管理',
+    //             to: '/admin/liuyanfankui',
+    //         },
+    //     ]
+    // },
 ]
 

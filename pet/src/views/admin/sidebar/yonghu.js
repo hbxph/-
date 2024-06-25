@@ -29,20 +29,20 @@ export default [
             },
         ]
     },
-    {
-        label: '分享趣事管理',
-        to: '',
-        children: [
-            {
-                label: '分享趣事添加',
-                to: '/admin/fenxiangqushiadd',
-            },
-            {
-                label: '分享趣事查询',
-                to: '/admin/fenxiangqushi_fenxiangren',
-            },
-        ]
-    },
+    // {
+    //     label: '分享趣事管理',
+    //     to: '',
+    //     children: [
+    //         {
+    //             label: '分享趣事添加',
+    //             to: '/admin/fenxiangqushiadd',
+    //         },
+    //         {
+    //             label: '分享趣事查询',
+    //             to: '/admin/fenxiangqushi_fenxiangren',
+    //         },
+    //     ]
+    // },
     {
         label: '反馈问题管理',
         to: '',
